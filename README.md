@@ -29,7 +29,7 @@ LinkedIn: https://www.linkedin.com/in/sfardousm/
   https://github.com/fardousfa/Postgre-SQL-Microsoft-Fabric-and-Power-BI-Desktop-Data-Anlysis
 
 - **SQL (notes / queries / practice)**  
-  https://github.com/fardousfa/sql
+  [https://github.com/fardousfa/sql](https://github.com/fardousfa/SQL-Data-Analytics)
 
 ## 📈 Financial Analysis (Company / Reporting)
 - **Tesco PLC Financial Performance Analysis (FY2022–FY2025)**  
