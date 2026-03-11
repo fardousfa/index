@@ -25,9 +25,8 @@ LinkedIn: https://www.linkedin.com/in/sfardousm/
 
 
 ## 📊 BI / Data Analytics (SQL, Fabric, Power BI)
-- **PostgreSQL + Microsoft Fabric + Power BI Desktop (Dataflow + Published Report)**  
-  https://github.com/fardousfa/Postgre-SQL-Microsoft-Fabric-and-Power-BI-Desktop-Data-Anlysis
-
+- **PostgreSQL + Microsoft Fabric + Power BI Service (Dataflow + Published Report)**
+  https://github.com/fardousfa/Postgre-SQL-and-Power-BI-Service-Data-FlowData-Anlysis/
 - **SQL (notes / queries / practice)**  
   [https://github.com/fardousfa/sql](https://github.com/fardousfa/SQL-Data-Analytics)
 
