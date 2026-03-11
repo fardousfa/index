@@ -16,7 +16,7 @@ LinkedIn: https://www.linkedin.com/in/sfardousm/
 - **Sales Performance Dashboard (Excel + Power Query + DAX + Power Pivot)**  
   https://github.com/fardousfa/Sales-Performance-Data-Analysis-Excel-Power-Query-DAX-Power-Pivot
 
-- **Financial Forecasting (Regression / Analytics)**  
+- **Financial Forecasting (Regression / Analytics in Excel)**  
   https://github.com/fardousfa/Financial-Forecasting-using-Regression-Model-Data-and-Analytics
 
 - **Financial Decision Analysis in Excel (Strategic Pricing Optimization)**  
@@ -27,7 +27,7 @@ LinkedIn: https://www.linkedin.com/in/sfardousm/
 ## 📊 BI / Data Analytics (SQL, Fabric, Power BI)
 - **PostgreSQL + Microsoft Fabric + Power BI Service (Dataflow + Published Report)**
   https://github.com/fardousfa/Postgre-SQL-and-Power-BI-Service-Data-FlowData-Anlysis/
-- **SQL (notes / queries / practice)**  
+- **SQL Server**  
   [https://github.com/fardousfa/sql](https://github.com/fardousfa/SQL-Data-Analytics)
 
 ## 📈 Financial Analysis (Company / Reporting)
