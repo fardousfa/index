@@ -4,7 +4,7 @@
 LinkedIn: https://www.linkedin.com/in/sfardousm/ 
 
 
-## 🎓 Certificates
+## 🎓 Certifi
 - **MyCertificates**  
   https://github.com/fardousfa/MyCertificates
 
