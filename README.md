@@ -89,9 +89,9 @@ Advanced **Excel** dashboard project combining data transformation, modeling, an
   SQL-driven data workflow connected to reporting and service-layer delivery  
   🔗 [Repository](https://github.com/fardousfa/Postgre-SQL-and-Power-BI-Service-Data-FlowData-Anlysis/)
 
-- **SQL Server Repository**  
+- **Exploratory-Data-Analysis-in-SQL**  
   SQL practice, scripts, and database-related work  
-  🔗 [Repository](https://github.com/fardousfa/sql)
+  🔗 [Repository](https://github.com/fardousfa/Exploratory-Data-Analysis-in-SQL)
 
 ---
 
