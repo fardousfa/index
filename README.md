@@ -17,10 +17,10 @@ Microsoft Certified: Power BI Data Analyst Associate (PL-300)
 ## Core Skills
 
 **Finance & Analysis**  
-FP&A · Variance Analysis · Budgeting · Management Reporting · Commercial Finance · Forecasting · Financial Storytelling
+FP&A · Variance Analysis · Budgeting · Management Reporting · Commercial Finance · Forecasting · Financial Storytelling · Financial Modelling
 
 **Data & BI Tools**  
-SQL · Power BI · Excel · Power Query · DAX · Power Pivot · Microsoft Report Builder
+Excel · SQL · Power BI · Power Query · DAX · Power Pivot · Microsoft Report Builder
 
 **Business Impact**  
 Business Partnering · KPI Tracking · Analytical Thinking · Data-Driven Insights · Decision Support
