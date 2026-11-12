@@ -29,19 +29,22 @@ Business Partnering · KPI Tracking · Analytical Thinking · Data-Driven Insigh
 
 ## ⭐Featured Projects
 
-### 1. FP&A Variance Analysis | SQL + Power BI
+### 1. Automated Management Reporting | Integrated P&L, Balance Sheet & Cash Flow | SQL + Power BI + Excel
+An integrated financial reporting solution for automated financial statement preparation, management reporting and business performance analysis.
+🔗 [View Project](https://github.com/fardousfa/Automated-Three-Statement-Reporting-SQL-Excel-Power-BI)
+### 2. FP&A Variance Analysis | SQL + Power BI
 Built a commercial finance analysis project to explain revenue performance through **price, volume, and mix variance**.  
 🔗 [View Project](https://github.com/fardousfa/Commercial-Finance-Variance-Analysis-PVM-in-SQL-and-Power-BI)
 
-### 2. Sales Analysis Dashboard | Power BI + Retail Sales
+### 3. Sales Analysis Dashboard | Power BI + Retail Sales
 Interactive Power BI dashboard focused on **sales performance, product trends, and retail insights** with clear visual storytelling.  
 🔗 [View Project](https://github.com/fardousfa/Sales-Analysis-Power-BI-Data-Analysis-and-Vizualisation)
 
-### 3. Accounts Receivable (AR) Risk Analysis | Power BI
+### 4. Accounts Receivable (AR) Risk Analysis | Power BI
 Created a dashboard to track **overdue balances, ageing trends, and working capital** exposure.  
 🔗 [View Project](https://github.com/fardousfa/Accounts-Receivable-AR-Ageing-Dashboard-Power-BI)
 
-### 4. Sales Performance Analysis | Excel + Power Query + DAX + Power Pivot
+### 5. Sales Performance Analysis | Excel + Power Query + DAX + Power Pivot
 Advanced Excel dashboard project combining **data transformation, modeling, and reporting** for business performance analysis.  
 🔗 [View Project](https://github.com/fardousfa/Sales-Performance-Data-Analysis-Excel-Power-Query-DAX-Power-Pivot)
 
