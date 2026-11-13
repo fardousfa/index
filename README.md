@@ -36,7 +36,7 @@ An integrated financial reporting solution for automated financial statement pre
 Built a commercial finance analysis project to explain revenue performance through **price, volume, and mix variance**.  
 🔗 [View Project](https://github.com/fardousfa/Commercial-Finance-Variance-Analysis-PVM-in-SQL-and-Power-BI)
 
-### 3. Sales Analysis Dashboard | Power BI + Retail Sales
+### 3. Retail & Commercial Performance Analytics - Sales, Product & Customer Insights
 Interactive Power BI dashboard focused on **sales performance, product trends, and retail insights** with clear visual storytelling.  
 🔗 [View Project](https://github.com/fardousfa/Sales-Analysis-Power-BI-Data-Analysis-and-Vizualisation)
 
